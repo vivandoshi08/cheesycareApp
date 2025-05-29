@@ -1,0 +1,7 @@
+{
+  "schedule": "*/10 * * * *",
+  "function_name": "match-scheduler",
+  "params": {
+    "scheduled": true
+  }
+} 
